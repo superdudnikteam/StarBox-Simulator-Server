@@ -12,5 +12,6 @@
 - - [ ] Дехеш hash
 - - [ ] Pre-made клиент
 - - [ ] Создание аккаунтов
-
+# игра
+[клик чтобы скачать апк](https://apkcombo.com/star-box-simulator-for-brawl-stars-open-the-boxes/com.madt.brawlsimulator/download/phone-1.7.0-apk)
 
