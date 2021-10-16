@@ -1,0 +1,30 @@
+{
+  "name": "starboxsimulator_server",
+  "version": "1.0.0",
+  "description": "Private server for madt StarBox Simulator",
+  "main": "index.js",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "express": "^4.17.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/superdudnikteam/StarBox-Simulator-Server.git"
+  },
+  "keywords": [
+    "starbox",
+    "brawlstars",
+    "server",
+    "box",
+    "simulator"
+  ],
+  "author": "nosebs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/superdudnikteam/StarBox-Simulator-Server/issues"
+  },
+  "homepage": "https://github.com/superdudnikteam/StarBox-Simulator-Server#readme"
+}
