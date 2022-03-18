@@ -1,5 +1,5 @@
 # StarBox-Simulator-Server
-Приватный сервер для StarBox Simulator 1.7.1 вроде
+Приватный сервер для StarBox Simulator 1.7.0 вроде
 # Депеншенсы
 - `Express@4.17.*`
 - `fs@*.*.*`
